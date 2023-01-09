@@ -1,3 +1,5 @@
 # UDP Repeater Collection
 Python scripts to receive UDP packets and sends them to multiple destinations.  These are intended primarily to work with WSJT-X.
 
+## UDP Repeater Basic
+A very simple Python script to receive UDP packets and "repeat" it to multiple destinations.
